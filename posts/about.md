@@ -5,8 +5,3 @@ description:
 background: '/img/bg-about.jpg'
 ---
 
-<p></p>
-
-<p></p>
-
-<p class="mb-5"></p>
