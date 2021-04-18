@@ -6,7 +6,7 @@ background: '/img/bg-about.jpg'
 ---
 
 
-My name is Demetrio Ragusa and I am an aspiring network engineer out of
+My name is Demetrio and I am an aspiring network engineer out of
 British Columbia, Canada.
 
 After owning and operating my own business in Greece for more than 10
