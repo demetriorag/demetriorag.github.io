@@ -6,6 +6,13 @@ image: '/img/bg-post.jpg'
 background: '/img/bg-post.jpg'
 ---
 
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{ page.article_title }}">
+<meta property="og:site_name" content="{{ page.site_name }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ page.image }}">
+<meta property="article:author" content="{{ page.author }}">
+
 #### Books:
 I will be using the CCNP and CCIE Enterprise Core official cert guide from [Cisco Press](https://www.ciscopress.com/store/ccnp-and-ccie-enterprise-core-encor-350-401-official-9781587145230) as my main reading material.
 
