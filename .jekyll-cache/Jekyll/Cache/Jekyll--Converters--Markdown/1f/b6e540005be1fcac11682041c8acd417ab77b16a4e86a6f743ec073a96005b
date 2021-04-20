@@ -1,0 +1,25 @@
+I"<h2 id="17a-process-and-cef">1.7a Process and CEF</h2>
+
+<h4 id="process-switching">Process Switching</h4>
+
+<p>Process Switching, also referred to as software switching, is a switching mechanism in which the router’s CPU is involved with every forwarding decision.  This can diminish the performance of the router significantly. Process switching is the fallback mechanism when IP packets cannot be switched by CEF.</p>
+
+<p>Types of packets that require process switching include:</p>
+<ul>
+  <li>Packets sourced/destined to the router (using routing protocols)</li>
+  <li>Packets that are too complex (IP packets with IP options)</li>
+  <li>Packets that require some extra information (like ARP)</li>
+</ul>
+
+<h4 id="cef-cisco-express-forwarding">CEF (Cisco Express Forwarding)</h4>
+
+<p>CEF is a switching mechanism developed by Cisco to keep up with the demands of evolving network infrastructures by reducing the overhead and delays introduced by other routing techniques.
+CEF consists of two key components:</p>
+<ul>
+  <li>Forwarding Information Base: The FIB builds it’s information from the routing table and also keeps a mirror image of the forwarding information contained in the IP routing table. When a routing/topology change occurs, the IP routing table gets updated and these changes are reflected in the FIB. CEF uses FIB to make Layer-3 IP destination prefix-based switching decisions.</li>
+  <li>Adjacency table: Also know as AIB (Adjacency Information Base), includes the directly connected next-hop IP addresses and MAC addresses. It is used to perform layer-2 decisions and is populated with data from the ARP table or other layer-2 protocol tables.</li>
+</ul>
+
+<h2 id="17b-mac-address-table-and-tcam">1.7.b MAC address table and TCAM</h2>
+<h2 id="17c-fib-vs-rib">1.7.c FIB vs. RIB</h2>
+:ET
