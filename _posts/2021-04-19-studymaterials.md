@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Study Materials"
-subtitle: ""  
+subtitle: ""
+image: '/img/bg-post.jpg'   
 background: '/img/bg-post.jpg'
 ---
 
