@@ -13,7 +13,7 @@ I will be using the CCNP and CCIE Enterprise Core official cert guide from [Cisc
 [CBT Nuggets](https://www.cbtnuggets.com/it-training/cisco/ccnp-enterprise-core) and their CCNP Encor training video series as a main source of video training.
 
 #### Labs:
-Because the  physical equipment I currently own are not adequate for labbing for the CCNP, I will be using [EVE-NG Pro](https://www.eve-ng.net/index.php/download/) and [Cisco's VIRL](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) for my images. A great resource on how to set everything up is Data Knox's [YouTube channel](https://www.youtube.com/channel/UCi7SD3zfCjkiDWvSFthIQSg), as he explains the process in detail. Thank you Knox!
+Because the  physical equipment I currently own are not adequate for labbing for the CCNP, I will be using [EVE-NG](https://www.eve-ng.net/index.php/download/) and [Cisco's VIRL](https://learningnetworkstore.cisco.com/cisco-modeling-labs-personal/cisco-cml-personal) for my images. A great resource on how to set everything up is Data Knox's [YouTube channel](https://www.youtube.com/channel/UCi7SD3zfCjkiDWvSFthIQSg), as he explains the process in detail. Thank you Knox!
 
 #### Anki:
 Flashcards are a life saver! [Anki](https://apps.ankiweb.net/) is great program as it is a free and open-source flashcard program using spaced repetition. I will be making flashcards as I move through my studies and review them every couple of days. I will also be using the 'DIKTA' questions, that can be found at the beginning of every chapter, as a review.
